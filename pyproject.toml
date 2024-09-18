@@ -18,9 +18,8 @@ classifiers = [
 ]
 
 [project.optional-dependencies]
-test = [
-    "pytest",
-]
+test = ["pytest", "docker", "pytest-asyncio", "pytest-cov"]
+
 docs = ["Sphinx", "pydata-sphinx-theme", "sphinx-click", "autodoc_pydantic"]
 
 [[project.authors]]

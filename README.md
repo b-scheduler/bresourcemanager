@@ -35,7 +35,7 @@ Install package locally
 pip install -e .[test]
 ```
 
-Run unit-test before PR, **ensure that new features are covered by unit tests**
+Run unit-test before PR
 
 ```
 pytest -v
