@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/license/b-scheduler/bresourcemanager)
 ![](https://img.shields.io/github/v/release/b-scheduler/bresourcemanager)
-![](https://img.shields.io/docker/image-size/b-scheduler/bresourcemanager)
+![](https://img.shields.io/docker/image-size/wh1isper/bresourcemanager)
 ![](https://img.shields.io/pypi/dm/bresourcemanager)
 ![](https://img.shields.io/github/last-commit/b-scheduler/bresourcemanager)
 ![](https://img.shields.io/pypi/pyversions/bresourcemanager)
