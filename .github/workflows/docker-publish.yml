@@ -41,5 +41,7 @@ jobs:
                   file: ./docker/Dockerfile
                   push: true
                   tags: |
+                      ${{ vars.DOCKERHUB_USERNAME }}/bresourcemanager:latest
+                      ghcr.io/b-scheduler/bresourcemanager:latest
                       ${{ vars.DOCKERHUB_USERNAME }}/bresourcemanager:${{ github.ref_name }}
                       ghcr.io/b-scheduler/bresourcemanager:${{ github.ref_name }}
